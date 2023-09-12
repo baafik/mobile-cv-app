@@ -52,3 +52,7 @@ The application features a visually appealing and consistent design with the fol
 - This application assumes that you have Flutter and Dart set up on your development machine.
 - You are expected to replace the placeholder values for your personal information in the "Edit" tab.
 - The app uses a consistent styling to enhance the user experience.# mobile-cv-app
+
+## Link to Appetize
+- Appetize.io wa used to create a virtualised demonstration of the release version of the app
+https://appetize.io/app/o2l7vwjz2m3obuw6mgxy5w2jd4
