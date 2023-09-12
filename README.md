@@ -54,5 +54,5 @@ The application features a visually appealing and consistent design with the fol
 - The app uses a consistent styling to enhance the user experience.# mobile-cv-app
 
 ## Link to Appetize
-- Appetize.io wa used to create a virtualised demonstration of the release version of the app
+- Appetize.io was used to create a virtualised demonstration of the release version of the app
 https://appetize.io/app/o2l7vwjz2m3obuw6mgxy5w2jd4
